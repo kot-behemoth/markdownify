@@ -5,7 +5,8 @@
   "src/test"]
 
  :dependencies
- []
+  ; 1.0.0 is available, but is full of warnings
+ [[reagent "0.9.1"]]
 
  :dev-http {9090 "public/"}
 
